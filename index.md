@@ -72,7 +72,7 @@
     <header class="pt-32 pb-20 md:pt-40 md:pb-28 bg-gradient text-white">
         <div class="container mx-auto px-4 text-center">
             <img 
-                src="https://github.com/yourusername.png" 
+                src="https://github.com/me.png" 
                 alt="Profile Picture" 
                 class="w-32 h-32 md:w-40 md:h-40 rounded-full mx-auto border-4 border-white/30 mb-6 shadow-lg"
             >
@@ -105,18 +105,14 @@
                 <h2 class="text-2xl md:text-3xl font-bold mb-8 text-center text-secondary">About Me</h2>
                 <div class="prose prose-lg max-w-none">
                     <p class="mb-4 text-gray-700">
-                        Hello! I'm [Your Name], a [Your Profession] with [X years] of experience in [relevant field]. 
-                        I specialize in [key expertise, e.g., building scalable web applications, designing intuitive user interfaces, 
-                        analyzing complex data sets].
+                        Hello! I'm Lian.Z, a freshman majoring in Information Security at Jiangxi University of Science and Technology with i year of experience in information security learning and practice.
+                        I specialize in network security fundamentals, information encryption technologies, introductory Python security tool development.
                     </p>
                     <p class="mb-4 text-gray-700">
-                        I'm passionate about [your passion, e.g., open source, clean code, user-centered design, 
-                        continuous learning]. I believe in [your values, e.g., creating technology that makes a difference, 
-                        collaboration, writing maintainable software].
+                        I'm passionate aboutcyber attack and defense techniques, data security, open-source security projects, information security compliance knowledge. I believe in guarding information security with technology, maintaining learning enthusiasm, collaborating in security communities, exploring cutting-edge security technologies.
                     </p>
                     <p class="mb-6 text-gray-700">
-                        When I'm not coding/designing/analyzing, you can find me [hobbies, e.g., contributing to open source projects, 
-                        hiking, reading tech blogs, playing guitar].
+                        When I'm not coding/designing/analyzing, you can find me participating in campus security club activities, learning CTF competition knowledge, reading security technology blogs, debugging simple security tools.
                     </p>
                     <div class="flex flex-wrap gap-3 mt-8">
                         <span class="bg-primary/10 text-primary px-4 py-2 rounded-full text-sm font-medium">Open Source</span>
